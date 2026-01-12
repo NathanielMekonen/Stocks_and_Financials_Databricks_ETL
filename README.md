@@ -1,4 +1,4 @@
-# Stocks_and_Financials_Databricks_ETL
+# Building a Financial Analytics Dashboard with Databricks
 
 [Medium Article Link](https://medium.com/@nemekonen/stock-market-vs-fundamentals-building-a-financial-analytics-dashboard-with-databricks-5557c4c7e99e)
 
